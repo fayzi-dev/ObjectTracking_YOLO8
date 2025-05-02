@@ -1,1 +1,2 @@
-# ObjectTracking_YOLO8
+# تشخیص اشیا با استفاده از YOLO8 
+#ذخیره خروجی در فایل output.mp4
